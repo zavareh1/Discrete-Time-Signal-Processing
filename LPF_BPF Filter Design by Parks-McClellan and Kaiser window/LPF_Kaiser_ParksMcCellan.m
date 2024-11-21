@@ -1,4 +1,3 @@
-%HW4 of DSP course: LPF design by the Kaiser and Parks-McCellan
 %This piece of code is written by: Zavareh Bozorgasl in Nov 2022
 clc
 clear 
